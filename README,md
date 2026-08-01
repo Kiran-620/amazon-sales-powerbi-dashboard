@@ -1,0 +1,30 @@
+# Amazon Sales Performance Dashboard
+
+## Overview
+Built an interactive Power BI dashboard to analyze Amazon sales data.
+
+## Tools Used
+- Power BI
+- Microsoft Excel
+
+## Features
+- Total Sales KPI
+- Total Profit KPI
+- Sales by State Analysis
+- Sales by Category Analysis
+- Payment Method Analysis
+- Top 5 Products by Sales
+- Sales Trend Analysis
+- Interactive Filters and Slicers
+
+## Dataset
+Amazon Sales dataset containing order, customer, product, sales, profit, payment method, and state information.
+
+## Key Insights
+- Analyzed sales performance across states.
+- Identified top-selling products.
+- Compared category-wise revenue and profit.
+- Visualized sales trends over time.
+
+## Author
+Kiran Kumar
